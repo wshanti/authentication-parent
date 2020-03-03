@@ -15,6 +15,7 @@
         <module>authentication-service-api</module>
         <module>authentication-eureka</module>
         <module>authentication-common-db</module>
+        <module>authentication-user-oauth</module>
     </modules>
 
     <parent>
